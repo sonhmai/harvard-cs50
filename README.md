@@ -12,8 +12,8 @@
 - [x] Reflect
 - [x] Blur
 - [ ] Edges
-### Recover
-- [ ] Recover jpeg images from raw file  
+### [Recover](https://cs50.harvard.edu/x/2020/psets/4/recover/)
+- [x] Recover jpeg images from raw file. 
 
 ## Week 5 - Data Structures  
 
