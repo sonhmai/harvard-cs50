@@ -1,4 +1,4 @@
-# Harvard CS50 course exercises
+# Harvard CS50 2020 course exercises
 
 ## Week 1 - C
 
