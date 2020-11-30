@@ -5,6 +5,11 @@
 ## Week 2 - Arrays  
 
 ## Week 3 - Algorithms  
+- [ ] [Plurality](https://cs50.harvard.edu/x/2020/psets/3/plurality/)
+
+One of the below 2  
+- [ ] Runoff - less comfortable
+- [ ] Tideman - more comfortable
 
 ## Week 4 - Memory  
 ### Implement image filters in C  
