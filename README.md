@@ -1,9 +1,13 @@
 # Harvard CS50 2020 course exercises
 
 ## Week 1 - C
+- [ ] Hello
+- [ ] Cash/ Credit
 
 ## Week 2 - Arrays  
-
+- [ ] Readability
+- [ ] Caesar/ Substitution (more comfortable)
+  
 ## Week 3 - Algorithms  
 - [ ] [Plurality](https://cs50.harvard.edu/x/2020/psets/3/plurality/)
 
@@ -24,9 +28,22 @@ One of the below 2
 - [ ] Speller  
 
 ## Week 6 - Python
+- [ ] Hello
+- [ ] Mario
+- [ ] Cash/ Credit
+- [ ] Readability
+- [ ] DNA
 
 ## Week 7 - SQL
+- [ ] Movies
+- [ ] Houses
 
 ## Week 8 - Information  
+- [ ] Games
+- [ ] Android
+- [ ] iOS
+- [ ] Web
+  - [ ] Homepage
+  - [ ] Finance
 
 
