@@ -21,6 +21,7 @@ One of the below 2
 - [x] Recover jpeg images from raw file. 
 
 ## Week 5 - Data Structures  
+- [ ] Speller  
 
 ## Week 6 - Python
 
