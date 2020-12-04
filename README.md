@@ -26,6 +26,8 @@ One of the below 2
 
 ## Week 5 - Data Structures  
 - [ ] Speller  
+  - [x] v1 that can run correctly.
+  - [ ] v2, improve hash().
 
 ## Week 6 - Python
 - [ ] Hello
@@ -46,4 +48,6 @@ One of the below 2
   - [ ] Homepage
   - [ ] Finance
 
+## Final Project  
+- [ ] README.md describes the proj
 
