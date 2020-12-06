@@ -26,8 +26,8 @@ One of the below 2
 
 ## Week 5 - Data Structures  
 - [ ] Speller  
-  - [x] v1 that can run correctly.
-  - [ ] v2, improve hash().
+  - [x] v1 that can run correctly. ~9s on lalaland, 1000s on holmes.
+  - [ ] v2, reduce running time to ...
 
 ## Week 6 - Python
 - [ ] Hello
