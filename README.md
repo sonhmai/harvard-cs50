@@ -38,6 +38,19 @@ One of the below 2
 
 ## Week 7 - SQL
 - [ ] Movies
+  - [x] 1
+  - [x] 2
+  - [x] 3
+  - [ ] 4
+  - [ ] 5
+  - [ ] 6
+  - [ ] 7
+  - [ ] 8
+  - [ ] 9
+  - [ ] 10
+  - [x] 11
+  - [x] 12
+  - [x] 13
 - [ ] Houses
 
 ## Week 8 - Information  
